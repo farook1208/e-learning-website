@@ -59,7 +59,7 @@ export const coursesCard = [
   {
     id: 2,
     cover: "../images/courses/c2.png",
-    coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+    coursesName: "C Programming -2023",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -339,8 +339,8 @@ export const blog = [
     type: "admin",
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Software Developer",
+    desc: "Software developers create the computer applications that allow users to do specific tasks and the underlying systems that run the devices or control networks..",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -349,7 +349,7 @@ export const blog = [
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "Software developers create the computer applications that allow users to do specific tasks and the underlying systems that run the devices or control networks..",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -357,8 +357,8 @@ export const blog = [
     type: "user",
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Frontend-developer",
+    desc: "A Front-End Developer is someone who creates websites and web applications..",
     cover: "../images/blog/b3.webp",
   },
   {
@@ -366,28 +366,11 @@ export const blog = [
     type: "admin",
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Build your Dream on C programming",
+    desc: "C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains.",
     cover: "../images/blog/b4.webp",
   },
-  {
-    id: 5,
-    type: "admin",
-    date: "DEC. 14, 2022",
-    com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b5.webp",
-  },
-  {
-    id: 6,
-    type: "user",
-    date: "JAN. 18, 2021",
-    com: "12 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b6.webp",
-  },
+
 ]
 export const testimonal = [
   {

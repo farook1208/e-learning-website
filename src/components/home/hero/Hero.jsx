@@ -19,10 +19,10 @@ const Hero = () => {
             </p>
             <div className="button">
               <button className="primary-btn">
-                GET STARTED NOW <i className="fa fa-long-arrow-alt-right"></i>
+                GET STARTED NOW <i className="fa fa-long-arrow-alt-right cursor-pointer"></i>
               </button>
               <button>
-                VIEW COURSE <i className="fa fa-long-arrow-alt-right"></i>
+                VIEW COURSE <i className="fa fa-long-arrow-alt-right cursor-pointer"></i>
               </button>
             </div>
           </div>
